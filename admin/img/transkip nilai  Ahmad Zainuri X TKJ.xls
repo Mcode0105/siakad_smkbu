@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+	
+	<table border="1" cellspacing="0" cellpadding="10">
+	<p style="text-align: center;">Transkip Nilai</p>
+	<p style="text-align: center;">SMK Full Day Bustanul Ulum Bulugading</p>
+	<p>nama Ahmad Zainuri</p>
+	<p>kelas X TKJ</p>
+
+		<tr>
+			<th rowspan="2">mapel</th>
+			<th colspan="6">nilai pengetahuan</th>
+			<th colspan="6">nilai keterampilan</th>
+			<th rowspan="2">UTS</th>
+			<th rowspan="2">UAS</th>
+		</tr>
+		<tr>
+			<td>Kd1</td>
+			<td>Kd2</td>
+			<td>Kd3</td>
+			<td>Kd4</td>
+			<td>Kd5</td>
+			<td>Kd6</td>
+			<td>Kd1</td>
+			<td>Kd2</td>
+			<td>Kd3</td>
+			<td>Kd4</td>
+			<td>Kd5</td>
+			<td>Kd6</td>
+		</tr>
+			</table>
+</body>
+</html>

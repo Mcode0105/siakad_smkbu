@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+        <h2>Data Siswa SMK Full Day Bustanul Ulum Bulugading</h2>
+    <h5>Kelas TKJ Xl </h5>
+    <h5>jurusan TEKNIK KOMPUTER DAN JARINGAN </h5>
+    <h5>Tahnun Akademik 2020 </h5>
+    <table>
+        <th>No</th>
+        <th>Nama</th>
+
+    </table>
+</body>
+
+</html>

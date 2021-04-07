@@ -1,0 +1,66 @@
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@9"></script>
+
+ <!DOCTYPE html>
+<html>
+<head>
+	<title>data kehadiran guru</title>
+</head>
+<body>
+<h2 style="text-align: left;" >data kehadiran guru</h2>
+<h2 style="text-align: left;" >SMK Full Day Bustanul Ulum Bulugading</h2>
+
+dicetak pada : Selasa,14-07-2020<br>
+nama         : Sari Imalia 
+<table border="1">
+	<tr>
+		<th>No</th>
+		<th>tanggal</th>
+         <th>waktu</th>
+          <th>Bulan</th>
+         <th>Keterangan jam ke - </th>
+         <th>struktural </th>
+
+         <th>Status </th>
+
+	</tr>
+		<tr>
+		<td>1</td>
+		<td>Rabu,05-2020</td>
+		<td>13:46:03</td>
+			<td>Februari</td>
+		<td>V</td>
+		<td>Waka Kesiswaan, Pembina Osis</td>
+
+		<td>TELAT</td>
+
+	
+	</tr>
+		<tr>
+		<td>2</td>
+		<td>kamis,13-2020</td>
+		<td>09:54:31</td>
+			<td>Februari</td>
+		<td>I</td>
+		<td>Waka Kesiswaan, Pembina Osis</td>
+
+		<td>HADIR</td>
+
+	
+	</tr>
+		<tr>
+		<td>3</td>
+		<td>kamis,13-2020</td>
+		<td>10:43:40</td>
+			<td>Februari</td>
+		<td>III</td>
+		<td>Waka Kesiswaan, Pembina Osis</td>
+
+		<td>HADIR</td>
+
+	
+	</tr>
+	
+</table>
+
+</body>
+</html>
